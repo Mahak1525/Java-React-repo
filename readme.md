@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-GitHub:- https://github.com/Mahak1525/Java-repo
+GitHub:- https://github.com/Mahak1525/Java-React-repo
 
 Introduction:
 Are you ready to embark on a transformative journey into the world of full-stack e-commerce development? 🔥 Brace yourself for an exhilarating adventure, where you’ll harness the dynamic duo of Java21 and SpringBoot 3.2.3 to craft cutting-edge online stores that redefine the digital shopping experience! 🌐💻
@@ -48,6 +48,6 @@ Course Stats: What You’ll Get
 - 🔄 Yearly Updates: Stay in sync with the latest trends and best practices in SpringBoot and React as technology evolves.
 - 🎫 Lifetime Access: Your one-time enrollment grants you unrestricted access to all current and future course content — forever.
 
-GitHub:- https://github.com/Mahak1525/Java-repo
+GitHub:- https://github.com/Mahak1525/Java-React-repo
 
 Thanks for Joining me. Happy Learning.
